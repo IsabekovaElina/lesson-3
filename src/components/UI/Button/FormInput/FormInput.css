@@ -1,0 +1,36 @@
+/* .elements {
+  display: flex;
+  flex-direction: column;
+  /* width:80px; */
+  /* height: 40px; */
+  /* background-color: rgb(190, 45, 186); */
+  /* padding: 20px; */
+  /* margin-bottom: 15px; */
+/* } */ */
+
+.div_block label {
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  font-weight: 600;
+  color: teal;
+  margin-bottom: 15px;
+  background: rgb(227, 206, 221);
+  border-radius: 30px;
+}
+.input {
+display: flex;
+flex-wrap: wrap;
+text-align: right;
+
+  width: 250px;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  height: 50px;
+  /* font-weight: 600;
+  color: rgb(84, 0, 84); */
+  font-size: xx-large;
+  /* margin-left: 400px; */
+  border-radius: 15px;
+  border: none;
+}

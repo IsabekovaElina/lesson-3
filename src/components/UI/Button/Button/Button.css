@@ -1,0 +1,16 @@
+ .btn{
+  display:flex;
+  margin-left:230px;
+  padding:15px 30px;
+  width: 228px;
+  height:51px;
+  background: rgb(217, 49, 217);
+  border-radius:15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style:normal;
+  font-weight:300;
+  font-size:16px;
+  line-height:35px;
+  color:white;
+ 
+} 

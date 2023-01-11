@@ -1,0 +1,11 @@
+.ul {
+    font-weight: 700;
+    font-size: large;
+    color: aliceblue;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius:20px;
+    margin-top:20px;
+    margin-bottom:30px;
+    background: rgb(197, 221, 118);
+}
